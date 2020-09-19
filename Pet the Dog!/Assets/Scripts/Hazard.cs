@@ -28,9 +28,10 @@ public class Hazard : MonoBehaviour
             other.GetComponent<PlayerHealth>().arms -= 1; // Remove an arm from the Player
             myCamera.GetComponent<CameraShake>().TriggerShake();
 
+            // The following code ensures that BackBatch only runs once.
             if (isColliding) return;
             isColliding = true;
-            hm.NextBatch();
+            hm.BackBatch();
 
             
         }

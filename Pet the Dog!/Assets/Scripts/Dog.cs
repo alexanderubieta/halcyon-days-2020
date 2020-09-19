@@ -5,13 +5,30 @@ using UnityEngine;
 public class Dog : MonoBehaviour
 {
     public AudioSource doggySFX;
+    private bool isColliding = false;
+    private HazardManager hm;
+
+    void Awake()
+    {
+        hm = GameObject.Find("HazardMGR").GetComponent<HazardManager>();
+    }
+
+    void Update()
+    {
+        isColliding = false;
+    }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
             doggySFX.Play();
-            other.GetComponent<PlayerHealth>().arms += 1; // Add an arm from the Player
+
+            // The following code ensures that NextBatch only runs once.
+            if (isColliding) return;
+            isColliding = true;
+            hm.pets += 1;
+            hm.NextBatch();
         }
     }
 }
