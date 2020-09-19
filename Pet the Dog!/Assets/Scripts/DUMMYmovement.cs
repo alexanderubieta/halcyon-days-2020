@@ -31,7 +31,9 @@ public class DUMMYmovement : MonoBehaviour
             moveUp = false;
             //oveDown = false;
             storeX = Input.GetAxisRaw("Horizontal");
+            movement.y = 0;
         }
+        
         if (Input.GetKey(KeyCode.A))
         {
             moveRight = true;
@@ -39,7 +41,9 @@ public class DUMMYmovement : MonoBehaviour
             moveUp = false;
             //oveDown = false;
             storeX = Input.GetAxisRaw("Horizontal");
+            movement.y = 0;
         }
+        
         if (moveRight)
         {
             movement.x = storeX;
@@ -52,6 +56,8 @@ public class DUMMYmovement : MonoBehaviour
             moveUp = true;
             //oveDown = false;
             storeY = Input.GetAxisRaw("Vertical");
+            movement.x = 0;
+            
         }
         
         if (Input.GetKey(KeyCode.S))
@@ -61,6 +67,7 @@ public class DUMMYmovement : MonoBehaviour
             moveUp = true;
             //oveDown = false;
             storeY = Input.GetAxisRaw("Vertical");
+            movement.x = 0;
         }
 
         if (moveUp)
