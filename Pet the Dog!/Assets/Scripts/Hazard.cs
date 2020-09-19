@@ -4,13 +4,16 @@ using UnityEngine;
 
 public class Hazard : MonoBehaviour
 {
+    public GameObject camera;
     public AudioSource damagedSFX;
-    void OnColliderEnter2D(Collider2D other)
+
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
             damagedSFX.Play();
-            other.GetComponent<PlayerHealth>().arms -= 1;
+            other.GetComponent<PlayerHealth>().arms -= 1; // Remove an arm from the Player
+            camera.GetComponent<CameraShake>().TriggerShake();
         }
     }
 }

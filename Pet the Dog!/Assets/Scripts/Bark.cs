@@ -9,16 +9,22 @@ public class Bark : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (hasBarked == false)
+        if (other.tag == "Player")
         {
-            barkSFX.Play();
-            hasBarked = true;
+            if (hasBarked == false)
+            {
+                barkSFX.Play();
+                hasBarked = true;
+            }
         }
     }
 
     void OnTriggerExit2D(Collider2D other)
     {
-        hasBarked = false;
+        if (other.tag == "Player")
+        {
+            hasBarked = false;
+        }
     }
 
     /* 
