@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DUMMYMovement : MonoBehaviour
+public class DUMMYmovement : MonoBehaviour
 {
 
     public float movementSpeed = 5f; //movement speed of player
@@ -29,8 +29,8 @@ public class DUMMYMovement : MonoBehaviour
             movementSpeed = 5f;
         }
 
-        if (Input.GetKey(KeyCode.A)) 
-            {
+        if (Input.GetKey(KeyCode.A))
+        {
             this.GetComponent<SpriteRenderer>().flipX = true;
         }
 
@@ -46,4 +46,3 @@ public class DUMMYMovement : MonoBehaviour
     }
 }
 
-    
