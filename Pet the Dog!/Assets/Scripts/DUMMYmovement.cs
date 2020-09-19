@@ -7,7 +7,7 @@ public class DUMMYmovement : MonoBehaviour
     public Vector2 movement; //movement axis
     public Rigidbody2D rigidbody; // player rigidbody component
     public float runSpeed = 8f;
-
+    //a test
     void Start()
     {
         rigidbody = this.GetComponent<Rigidbody2D>();
