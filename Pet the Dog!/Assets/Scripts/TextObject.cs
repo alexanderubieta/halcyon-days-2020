@@ -9,7 +9,7 @@ public class TextObject : MonoBehaviour
 
     void Awake()
     {
-        
+
     }
 
     void Update()
