@@ -6,6 +6,7 @@ public class Block : MonoBehaviour
 {
     private bool isColliding = false;
     private HazardManager hm;
+    public GameObject otherDogForm;
 
     void Start()
     {
@@ -16,7 +17,6 @@ public class Block : MonoBehaviour
     {
         if (other.tag == "Dog")
         {
-            Debug.Log("Thats the block!");
             // The following code ensures that NextBatch only runs once.
             if (isColliding) return;
             isColliding = true;
@@ -24,6 +24,7 @@ public class Block : MonoBehaviour
 
             Destroy(other.gameObject);
             Destroy(gameObject);
+            otherDogForm.SetActive(true); // Activates a new normal dog where the other one was destroyed
         }
     }
 }

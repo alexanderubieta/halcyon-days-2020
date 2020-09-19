@@ -44,11 +44,6 @@ public class HazardManager : MonoBehaviour
         {
             area3.SetActive(false);
         }
-
-        if (index > winThreshold)
-        {
-            // Move to WIN stage
-        }
     }
 
     public void NextBatch() //Move onto the next round of objects

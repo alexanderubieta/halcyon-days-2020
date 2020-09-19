@@ -28,7 +28,7 @@ public class NextStage : MonoBehaviour
             }
             else // Second dog moves up
             {
-                transform.position += new Vector3(0, -(speed * Time.deltaTime), 0);
+                transform.position += new Vector3(0, (speed * Time.deltaTime), 0);
             }
         }
     }
