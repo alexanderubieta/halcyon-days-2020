@@ -30,4 +30,9 @@ public class Scenes : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void TryAgain()
+    {
+        SceneManager.LoadScene("Gameplay");
+    }
 }

@@ -8,6 +8,7 @@ public class DUMMYmovement : MonoBehaviour
     public Vector2 movement; //movement axis
     public Rigidbody2D rigidbody; // player rigidbody component
     public float runSpeed = 10f;
+    public Animator petterANIM;
 
     void Start()
     {
@@ -27,6 +28,10 @@ public class DUMMYmovement : MonoBehaviour
             moveHori = false;
             storeX = Input.GetAxisRaw("Horizontal");
             movement.y = 0;
+            petterANIM.SetBool("right", true);
+            petterANIM.SetBool("left", false);
+            petterANIM.SetBool("up", false);
+            petterANIM.SetBool("down", false);
         }
 
         if (Input.GetKey(KeyCode.A))
@@ -35,6 +40,10 @@ public class DUMMYmovement : MonoBehaviour
             moveHori = false;
             storeX = Input.GetAxisRaw("Horizontal");
             movement.y = 0;
+            petterANIM.SetBool("right", false);
+            petterANIM.SetBool("left", true);
+            petterANIM.SetBool("up", false);
+            petterANIM.SetBool("down", false);
         }
 
         if (moveVert)
@@ -48,6 +57,10 @@ public class DUMMYmovement : MonoBehaviour
             moveHori = true;
             storeY = Input.GetAxisRaw("Vertical");
             movement.x = 0;
+            petterANIM.SetBool("right", false);
+            petterANIM.SetBool("left", false);
+            petterANIM.SetBool("up", true);
+            petterANIM.SetBool("down", false);
 
         }
 
@@ -57,6 +70,10 @@ public class DUMMYmovement : MonoBehaviour
             moveHori = true;
             storeY = Input.GetAxisRaw("Vertical");
             movement.x = 0;
+            petterANIM.SetBool("right", false);
+            petterANIM.SetBool("left", false);
+            petterANIM.SetBool("up", false);
+            petterANIM.SetBool("down", true);
         }
 
         if (moveHori)
@@ -76,13 +93,13 @@ public class DUMMYmovement : MonoBehaviour
 
         if (Input.GetKey(KeyCode.A))
         {
-            this.GetComponent<SpriteRenderer>().flipX = true;
+            //this.GetComponent<SpriteRenderer>().flipX = true;
         }
 
 
         if (Input.GetKey(KeyCode.D))
         {
-            this.GetComponent<SpriteRenderer>().flipX = false;
+            //this.GetComponent<SpriteRenderer>().flipX = false;
         }
 
     }

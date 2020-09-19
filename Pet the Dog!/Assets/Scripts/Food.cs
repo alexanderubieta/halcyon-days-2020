@@ -5,6 +5,7 @@ using UnityEngine;
 public class Food : MonoBehaviour
 {
     public AudioSource gotFoodSFX;
+    public AudioSource healSFX;
     private bool isColliding = false;
 
     void Awake()
@@ -21,7 +22,9 @@ public class Food : MonoBehaviour
         if (other.tag == "Player")
         {
             gotFoodSFX.Play();
+            healSFX.Play();
             other.GetComponent<PlayerHealth>().arms += 1; // Add an arm from the Player
+            Destroy(gameObject);
 
         }
     }
