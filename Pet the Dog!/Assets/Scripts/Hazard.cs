@@ -14,6 +14,11 @@ public class Hazard : MonoBehaviour
             damagedSFX.Play();
             other.GetComponent<PlayerHealth>().arms -= 1; // Remove an arm from the Player
             camera.GetComponent<CameraShake>().TriggerShake();
+
+            if (gameObject.tag == "Hazard")
+            {
+                Destroy(gameObject); //Destroys the current object. Walls won't be destroyed though.
+            }
         }
     }
 }

@@ -6,7 +6,7 @@ public class CameraShake : MonoBehaviour
 {
     private Transform camTransform;
     private float shakeDuration;
-    private float shakeMagnitude = 1.0f;
+    private float shakeMagnitude = 0.7f;
     private float dampingSpeed = 1.0f; // How quickly the shake should evaporate
     Vector3 initialPosition;
 
@@ -39,7 +39,7 @@ public class CameraShake : MonoBehaviour
         }
     }
 
-    public void TriggerShake() //Trigger this from Hazard.cs to activate the shaking
+    public void TriggerShake() //Trigger this to activate the camera shaking
     {
         shakeDuration = 0.1f;
     }
