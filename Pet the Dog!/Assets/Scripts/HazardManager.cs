@@ -5,14 +5,15 @@ using UnityEngine;
 public class HazardManager : MonoBehaviour
 {
     public GameObject[] stages;
-    private int currentArea = 1;
     public int index = 0;
-    public int area1Threshold = 5; // How many times the player should've pet the dog before unlocking Area 2
-    public int area2Threshold = 15; // How many times the player should've pet the dog before unlocking the entire house
-    public int pets = 0; // How many times the player has pet the dog
+    public int area1Threshold = 8; // What round the player should be on before unlocking area 2
+    public int area2Threshold = 15; // What round the player should be on before unlocking the entire house
+    public int winThreshold = 20; // What round the play should pass to win the game
+    public GameObject area2; // Stores the block that covers area 2
+    public GameObject area3; // Store the block that covers the rest of the house
 
+    // The house is split into 3 stages: Area 1 (kitchen), Area 2 (kitchen & living room), and Area 3 (entire house)
 
-    // Start is called before the first frame update
     void Start()
     {
         // Game starts with area 1, round 1
@@ -22,14 +23,31 @@ public class HazardManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // The current stage/round should be the only one active. All others are set inactive.
         stages[index].SetActive(true);
-
-        for (int i = 0; i < stages.Length; i++)
+        for (int i = 0; i < stages.Length; i++) 
         {
             if (i != index)
             {
                 stages[i].SetActive(false);
             }
+        }
+
+        // Remove area 2's barrier if the player has passed its threshold
+        if (index >= area1Threshold)
+        {
+            area2.SetActive(false); 
+        }
+
+        // Remove area 3's barrier if the player has passed its threshold (entire house is unlocked now)
+        if (index >= area2Threshold)
+        {
+            area3.SetActive(false);
+        }
+
+        if (index > winThreshold)
+        {
+            // Move to WIN stage
         }
     }
 

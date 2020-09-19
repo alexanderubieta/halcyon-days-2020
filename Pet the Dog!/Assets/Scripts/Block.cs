@@ -2,32 +2,28 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dog : MonoBehaviour
+public class Block : MonoBehaviour
 {
-    public AudioSource doggySFX;
     private bool isColliding = false;
     private HazardManager hm;
 
-    void Awake()
+    void Start()
     {
         hm = GameObject.Find("HazardMGR").GetComponent<HazardManager>();
     }
 
-    void Update()
-    {
-        isColliding = false;
-    }
-
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "Dog")
         {
-            doggySFX.Play();
-
+            Debug.Log("Thats the block!");
             // The following code ensures that NextBatch only runs once.
             if (isColliding) return;
             isColliding = true;
             hm.NextBatch();
+
+            Destroy(other.gameObject);
+            Destroy(gameObject);
         }
     }
 }
