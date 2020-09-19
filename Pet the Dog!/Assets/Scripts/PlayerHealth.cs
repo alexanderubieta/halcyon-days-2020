@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour
 {
     public int arms = 1; // This acts as the player's health bar.
+    private int last_count = 1;
 
     void Start()
     {
@@ -14,6 +15,6 @@ public class PlayerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
