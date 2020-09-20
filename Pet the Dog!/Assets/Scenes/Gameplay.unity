@@ -4120,8 +4120,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f52e64caf19cbfc479ef4e17069c7fec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FollowSpeed: 2
-  Target: {fileID: 1984353389}
 --- !u!1 &528207356
 GameObject:
   m_ObjectHideFlags: 0
@@ -4571,7 +4569,7 @@ MonoBehaviour:
   doggySFX: {fileID: 836685646}
   isFirst: 0
   speed: 5
-  player: {fileID: 1984353386}
+  player: {fileID: 0}
 --- !u!4 &575607525 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -35556,9 +35554,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movementSpeed: 6
   movement: {x: 0, y: 0}
-  rigidbody: {fileID: 1984353390}
-  runSpeed: 8
-  petterANIM: {fileID: 1984353395}
+  rigidbody: {fileID: 0}
+  runSpeed: 10
+  tail: []
+  arms: 0
+  armPrefab: {fileID: 1740700269718801140, guid: 151a0deb7381a884ba4edaed4c4c715e,
+    type: 3}
+  petterANIM: {fileID: 0}
 --- !u!212 &1984353388
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -36174,7 +36176,7 @@ MonoBehaviour:
   doggySFX: {fileID: 836685646}
   isFirst: 1
   speed: 5
-  player: {fileID: 1984353386}
+  player: {fileID: 0}
 --- !u!4 &2049904460 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,

@@ -25,7 +25,8 @@ public class Hazard : MonoBehaviour
         if (other.tag == "Player")
         {
             damagedSFX.Play();
-            other.GetComponent<PlayerHealth>().arms -= 1; // Remove an arm from the Player
+            
+            other.GetComponent<PlayerHealth>().arms--; // Remove an arm from the Player
             myCamera.GetComponent<CameraShake>().TriggerShake();
 
             // The following code ensures that BackBatch only runs once.
@@ -33,6 +34,7 @@ public class Hazard : MonoBehaviour
             isColliding = true;
             hm.BackBatch();
 
+            
             
         }
     }
