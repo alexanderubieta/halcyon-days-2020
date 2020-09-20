@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1740700269718801142}
   - component: {fileID: 1740700269718801141}
   - component: {fileID: 1740700269718801096}
+  - component: {fileID: 1391333632233646449}
   m_Layer: 0
   m_Name: Hazard
   m_TagString: Hazard
@@ -28,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 1740700269718801140}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.81, y: 7.18, z: -0.21519661}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 13, y: 13, z: 2}
   m_Children:
   - {fileID: 1740700270235426702}
   m_Father: {fileID: 0}
@@ -72,9 +73,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 1369372634922183146, guid: 4c3afc82a11c0764689c72c9bef3b45f,
-    type: 3}
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!58 &1740700269718801141
@@ -100,7 +100,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.14538413
+  m_Radius: 0.028960504
 --- !u!114 &1740700269718801096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115,6 +115,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myCamera: {fileID: 0}
   damagedSFX: {fileID: 0}
+  trueForm: {fileID: 0}
+  truth: 
+  trueFormObject: {fileID: 0}
+--- !u!95 &1391333632233646449
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1740700269718801140}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1740700270235426701
 GameObject:
   m_ObjectHideFlags: 0
@@ -160,7 +182,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.06, y: -0.08}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -171,7 +193,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3, y: 3}
+  m_Size: {x: 0.8, y: 0.8}
   m_EdgeRadius: 0
 --- !u!114 &1740700270235426703
 MonoBehaviour:

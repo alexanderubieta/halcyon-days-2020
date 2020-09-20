@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<<< HEAD:Pet the Dog!/Assets/Art Assets.meta
 guid: 7f0ab6a8596eb45788810398dab092a0
+========
+guid: 18e2f8cd983238141aac4d79dced87ae
+>>>>>>>> 9420e2436d1f25ae0bb7fb2b1071b4b0c56d271a:Pet the Dog!/Assets/Animation.meta
+=======
+guid: 3ad3ef7c3a9f15843baa32407f757701
+>>>>>>> 9420e2436d1f25ae0bb7fb2b1071b4b0c56d271a
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

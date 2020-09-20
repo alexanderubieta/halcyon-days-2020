@@ -11,11 +11,19 @@ public class NextStage : MonoBehaviour
     public float speed = 2.0f; // How fast the dog moves
     private bool movingToBlock = false;
     public GameObject player;
+    private Animator dogANIM;
 
     // Start is called before the first frame update
     void Start()
     {
+        dogANIM = gameObject.GetComponent<Animator>();
+        dogANIM.SetInteger("dogNum", Random.Range(1, 10));
         hm = GameObject.Find("HazardMGR").GetComponent<HazardManager>();
+    }
+
+    void OnEnable()
+    {
+        dogANIM.SetInteger("dogNum", Random.Range(1, 10));
     }
 
     // Update is called once per frame
@@ -39,7 +47,7 @@ public class NextStage : MonoBehaviour
         if (other.tag == "Player")
         {
             doggySFX.Play();
-            player.GetComponent<DUMMYmovement>().movementSpeed += 1;
+            player.GetComponent<DUMMYmovement>().movementSpeed += 0.5f;
             movingToBlock = true;
         }
     }

@@ -28,7 +28,12 @@ public class Scenes : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("Gameplay");
+    }
+
+    public void Exit()
+    {
+        Application.Quit();
     }
 
     public void TryAgain()
