@@ -10,6 +10,7 @@ public class NextStage : MonoBehaviour
     public bool isFirst; // Asks if this is the first stage unlocked
     public float speed = 2.0f; // How fast the dog moves
     private bool movingToBlock = false;
+    public GameObject player;
 
     // Start is called before the first frame update
     void Start()
@@ -38,7 +39,7 @@ public class NextStage : MonoBehaviour
         if (other.tag == "Player")
         {
             doggySFX.Play();
-
+            player.GetComponent<DUMMYmovement>().movementSpeed += 1;
             movingToBlock = true;
         }
     }

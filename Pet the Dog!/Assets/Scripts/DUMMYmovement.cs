@@ -4,7 +4,7 @@ using System.Collections;
 public class DUMMYmovement : MonoBehaviour
 {
 
-    public float movementSpeed = 5f; //movement speed of player
+    public float movementSpeed = 6f; //movement speed of player
     public Vector2 movement; //movement axis
     public Rigidbody2D rigidbody; // player rigidbody component
     public float runSpeed = 10f;

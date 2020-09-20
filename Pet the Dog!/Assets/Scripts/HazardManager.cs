@@ -36,7 +36,7 @@ public class HazardManager : MonoBehaviour
         // Remove area 2's barrier if the player has passed its threshold
         if (index >= area1Threshold)
         {
-            area2.SetActive(false); 
+            area2.SetActive(false);
         }
 
         // Remove area 3's barrier if the player has passed its threshold (entire house is unlocked now)

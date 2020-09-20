@@ -4571,6 +4571,7 @@ MonoBehaviour:
   doggySFX: {fileID: 836685646}
   isFirst: 0
   speed: 5
+  player: {fileID: 1984353386}
 --- !u!4 &575607525 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -36173,6 +36174,7 @@ MonoBehaviour:
   doggySFX: {fileID: 836685646}
   isFirst: 1
   speed: 5
+  player: {fileID: 1984353386}
 --- !u!4 &2049904460 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
