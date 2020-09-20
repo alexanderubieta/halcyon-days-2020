@@ -32,7 +32,7 @@ public class Dog : MonoBehaviour
         if (other.tag == "Player")
         {
             doggySFX.Play();
-            other.GetComponent<PlayerHealth>().arms++;
+            other.GetComponent<PlayerHealth>().arms+=1;
             // The following code ensures that NextBatch only runs once.
             if (isColliding) return;
             isColliding = true;

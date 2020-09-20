@@ -19,18 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ef86a13-d55e-487e-a79a-d3703a693308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Pet the Dog!/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Pet the Dog!/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Pet the Dog!/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Pet the Dog!/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.halcyon-days-2020.dir/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.halcyon-days-2020.dir/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.halcyon-days-2020.dir/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DUMMYmovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DUMMYmovement.cs" afterDir="false" />
+    <list default="true" id="3ef86a13-d55e-487e-a79a-d3703a693308" name="Default Changelist" comment="Arm support">
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Dog.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Dog.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hazard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hazard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +31,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/alexu/RiderProjects/halcyon-days-2020/Pet the Dog!/Assets/Art Assets.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alexu/RiderProjects/halcyon-days-2020/Pet the Dog!/Assets/Art Assets.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FreeMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Hazard.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Dog.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NextStage.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAssets.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Snake.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DUMMYmovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Hazard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dog.cs" />
       </list>
     </option>
   </component>
@@ -103,8 +95,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600497723320</updated>
-      <workItem from="1600497754542" duration="33244000" />
+      <workItem from="1600497754542" duration="33640000" />
     </task>
+    <task id="LOCAL-00001" summary="Arm support">
+      <created>1600583024905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600583024905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,19 +125,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Arm support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arm support" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="148" y="65" key="MergeDialog" timestamp="1600569098425">
+    <state x="148" y="65" key="MergeDialog" timestamp="1600583050234">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="148" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1600569098425" />
+    <state x="148" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1600583050234" />
+    <state x="402" y="177" key="MultipleFileMergeDialog" timestamp="1600583098350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="402" y="177" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1600583098350" />
     <state x="862" y="94" width="581" height="637" key="VCS.FileHistoryDialog" timestamp="1600576668260">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="862" y="94" width="581" height="637" key="VCS.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1600576668260" />
-    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600568738794">
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600583030465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600568738794" />
+    <state x="588" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1600583030465" />
   </component>
 </project>
