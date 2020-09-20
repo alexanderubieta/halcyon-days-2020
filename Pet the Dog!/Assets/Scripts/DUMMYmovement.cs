@@ -12,21 +12,19 @@ public class DUMMYmovement : MonoBehaviour
     public Vector2 movement; //movement axis
     public new Rigidbody2D rigidbody; // player rigidbody component
     public float runSpeed = 10f;
-    public List<Transform> tail;
-    public int arms;
-    public GameObject armPrefab;
+    public List<Transform> tail; // tail containing the arms 
+    public GameObject armPrefab; // arm sprite
     public Animator petterANIM;
 
     void Start()
     {
         rigidbody = this.GetComponent<Rigidbody2D>();
-        arms = GetComponent<PlayerHealth>().arms;
+        int arms = GetComponent<PlayerHealth>().arms;
         tail = new List<Transform>(arms);
         for (int i = 0; i < arms; i++)
         {
             GameObject arm = (GameObject)Instantiate(armPrefab, rigidbody.position, Quaternion.identity);
             tail.Insert(0,arm.transform);
-            //links.Insert(0,rigidbody.position-movement);
         }
     }
 
@@ -36,22 +34,24 @@ public class DUMMYmovement : MonoBehaviour
     float storeY = 0;
     void Update()
     {
-        if (GetComponent<PlayerHealth>().arms != arms)
+        // update arm amount as it changes
+        if (GetComponent<PlayerHealth>().arms != tail.Count)
         {
-            if (GetComponent<PlayerHealth>().arms > arms)
+            if (GetComponent<PlayerHealth>().arms > tail.Count)
             {
                 GameObject arm = (GameObject)Instantiate(armPrefab, rigidbody.position, Quaternion.identity);
                 tail.Insert(0,arm.transform);
-                arms=GetComponent<PlayerHealth>().arms;
+                GetComponent<PlayerHealth>().arms = tail.Count;
             }
-            else if (GetComponent<PlayerHealth>().arms<arms)
+            else if (GetComponent<PlayerHealth>().arms<tail.Count)
             {
                 tail.RemoveAt(tail.Count-1);
-                arms=GetComponent<PlayerHealth>().arms;
+                GetComponent<PlayerHealth>().arms = tail.Count;
             }
         }
         
-        if (arms > 0)
+        // insert sprites in tail one after another behind the player
+        if (tail.Count > 0)
         {
             var store = tail[0].position;
             tail[0].position = rigidbody.position - movement;
