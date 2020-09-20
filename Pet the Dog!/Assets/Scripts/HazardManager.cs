@@ -55,12 +55,7 @@ public class HazardManager : MonoBehaviour
     {
         stages[index].SetActive(false); //Turn off the current set
 
-        if (index - 2 >= 0) // If the scene is able to go back 2 rounds, do so
-        {
-            index -= 2;
-        }
-
-        else if (index - 1 >= 0)
+        if (index - 1 >= 0)
         {
             index -= 1;
         }

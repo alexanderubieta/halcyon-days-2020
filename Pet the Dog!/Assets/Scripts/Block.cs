@@ -23,7 +23,7 @@ public class Block : MonoBehaviour
             hm.NextBatch();
 
             Destroy(other.gameObject);
-            Destroy(gameObject);
+            gameObject.SetActive(false);
             otherDogForm.SetActive(true); // Activates a new normal dog where the other one was destroyed
         }
     }
