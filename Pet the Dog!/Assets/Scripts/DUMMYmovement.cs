@@ -1,18 +1,33 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel.Design;
+using System.Linq;
+using UnityEditor;
 
 public class DUMMYmovement : MonoBehaviour
 {
 
     public float movementSpeed = 6f; //movement speed of player
     public Vector2 movement; //movement axis
-    public Rigidbody2D rigidbody; // player rigidbody component
+    public new Rigidbody2D rigidbody; // player rigidbody component
     public float runSpeed = 10f;
+    public List<Transform> tail;
+    public int arms;
+    public GameObject armPrefab;
     public Animator petterANIM;
 
     void Start()
     {
         rigidbody = this.GetComponent<Rigidbody2D>();
+        arms = GetComponent<PlayerHealth>().arms;
+        tail = new List<Transform>(arms);
+        for (int i = 0; i < arms; i++)
+        {
+            GameObject arm = (GameObject)Instantiate(armPrefab, rigidbody.position, Quaternion.identity);
+            tail.Insert(0,arm.transform);
+            //links.Insert(0,rigidbody.position-movement);
+        }
     }
 
     bool moveVert = false;
@@ -21,7 +36,33 @@ public class DUMMYmovement : MonoBehaviour
     float storeY = 0;
     void Update()
     {
-
+        if (GetComponent<PlayerHealth>().arms != arms)
+        {
+            if (GetComponent<PlayerHealth>().arms > arms)
+            {
+                GameObject arm = (GameObject)Instantiate(armPrefab, rigidbody.position, Quaternion.identity);
+                tail.Insert(0,arm.transform);
+                arms=GetComponent<PlayerHealth>().arms;
+            }
+            else if (GetComponent<PlayerHealth>().arms<arms)
+            {
+                tail.RemoveAt(tail.Count-1);
+                arms=GetComponent<PlayerHealth>().arms;
+            }
+        }
+        
+        if (arms > 0)
+        {
+            var store = tail[0].position;
+            tail[0].position = rigidbody.position - movement;
+            for (var i = 1; i < tail.Count; i++)
+            {
+                var store2 = tail[i].position;
+                tail[i].position = store-(Vector3)movement;
+                store = store2;
+            }
+        }
+        
         if (Input.GetKey(KeyCode.D))
         {
             moveVert = true;
@@ -33,7 +74,7 @@ public class DUMMYmovement : MonoBehaviour
             petterANIM.SetBool("up", false);
             petterANIM.SetBool("down", false);
         }
-
+        
         if (Input.GetKey(KeyCode.A))
         {
             moveVert = true;
@@ -45,12 +86,13 @@ public class DUMMYmovement : MonoBehaviour
             petterANIM.SetBool("up", false);
             petterANIM.SetBool("down", false);
         }
-
+        
         if (moveVert)
         {
             movement.x = storeX;
+            
         }
-
+        
         if (Input.GetKey(KeyCode.W))
         {
             moveVert = false;
@@ -61,9 +103,8 @@ public class DUMMYmovement : MonoBehaviour
             petterANIM.SetBool("left", false);
             petterANIM.SetBool("up", true);
             petterANIM.SetBool("down", false);
-
         }
-
+        
         if (Input.GetKey(KeyCode.S))
         {
             moveVert = false;
