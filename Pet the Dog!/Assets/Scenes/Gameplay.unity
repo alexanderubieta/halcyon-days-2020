@@ -128,6 +128,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1506998012}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -138,6 +143,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1466680051}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -205,6 +215,12 @@ PrefabInstance:
       objectReference: {fileID: 715557645}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &4768074 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 476133259}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &10936438
 GameObject:
   m_ObjectHideFlags: 0
@@ -246,6 +262,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1412543735}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -323,6 +344,12 @@ PrefabInstance:
       objectReference: {fileID: 715557645}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &26869863 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1543820438}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &34156068 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -642,6 +669,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 71117097}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &52318926 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 301535321}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &52318930
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 52318926}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &63418551
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -649,6 +701,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1864508228}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -659,6 +716,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1692718780}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -733,6 +795,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 755648540}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -815,6 +882,31 @@ PrefabInstance:
       objectReference: {fileID: 769174764}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!1 &81569850 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 695154766}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &81569854
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81569850}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &92630573 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -900,11 +992,42 @@ PrefabInstance:
       objectReference: {fileID: 1674580666}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afad9792297249d418bef58f7bbb3a09, type: 3}
+--- !u!1 &97732524 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1263156843}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &97732528
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 97732524}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &102055895 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
     type: 3}
   m_PrefabInstance: {fileID: 988018486}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &110447238 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 546318200}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &113136856
 GameObject:
@@ -1033,6 +1156,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &116826479 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1577646958}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &129642897 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1783200872}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &136234956
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1040,6 +1175,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 301995355}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -1273,6 +1413,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 857417307}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -1283,6 +1428,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1241892717}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -1355,6 +1505,12 @@ PrefabInstance:
       objectReference: {fileID: 715557645}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &162108525 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1884395804}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &170593642 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -1479,6 +1635,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 309486456}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &177601488 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 513346263}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &177601492
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177601488}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &177793063 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -1552,6 +1733,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1275011107}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -1769,6 +1955,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 643855053}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -1779,6 +1970,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1644506505}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -1853,6 +2049,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1506998012}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -1943,6 +2144,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 758864391}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -1953,6 +2159,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 47298038}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 2015062895}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2020,12 +2231,43 @@ PrefabInstance:
       objectReference: {fileID: 1874344869}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &256267230 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 475138206}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &256484917 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
     type: 3}
   m_PrefabInstance: {fileID: 1346868609}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &260258051 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+    type: 3}
+  m_PrefabInstance: {fileID: 5630895104787828865}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &260258055
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260258051}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &260588045 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -2123,6 +2365,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4063359}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &273138307 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 749918115}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &282023152 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -2136,6 +2384,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2117316099}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -2146,6 +2399,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1166799422}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2544,6 +2802,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1498394983}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -2638,6 +2901,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1090073529}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &325700761 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 654581915}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &325700765
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 325700761}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &329375027
 GameObject:
   m_ObjectHideFlags: 0
@@ -2760,6 +3048,81 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2007344946}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &361398873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+    type: 3}
+  m_PrefabInstance: {fileID: 298117722}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &361398877
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 361398873}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &379547965 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 309486456}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &379547969
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 379547965}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &383283946 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 638864945}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &383283950
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383283946}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &389610671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2767,6 +3130,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1275011107}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -2777,6 +3145,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1910910936}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -3246,6 +3619,37 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 600939218}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &442819551 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 2007344946}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &442819555
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 442819551}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!95 &446271014 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 759267299}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &447305618
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3336,6 +3740,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 389610671}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &450370423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+    type: 3}
+  m_PrefabInstance: {fileID: 1571870085}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &450370427
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 450370423}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &475138206
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3343,6 +3772,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2101410554}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -3353,6 +3787,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 256267230}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -3506,6 +3945,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 174243261}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -3516,6 +3960,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 4768074}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -3590,6 +4039,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 755648540}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -3672,6 +4126,31 @@ PrefabInstance:
       objectReference: {fileID: 434236549}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!1 &488125973 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+    type: 3}
+  m_PrefabInstance: {fileID: 1961833830}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &488125977
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488125973}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &492101241 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -3884,6 +4363,12 @@ PrefabInstance:
       objectReference: {fileID: 1674580666}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afad9792297249d418bef58f7bbb3a09, type: 3}
+--- !u!95 &516304412 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1544873903}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &518790444
 GameObject:
   m_ObjectHideFlags: 0
@@ -4164,6 +4649,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1240962131}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -4248,6 +4738,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1544148957}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -4258,6 +4753,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 110447238}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -4372,6 +4872,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 301995355}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -4382,6 +4887,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1731937881}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -4467,6 +4977,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 613452799}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -4477,6 +4992,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1241968792}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -4572,6 +5092,25 @@ MonoBehaviour:
   isFirst: 0
   speed: 5
   player: {fileID: 1984353386}
+--- !u!95 &567490675
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 567490670}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &575607525 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -4718,6 +5257,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 754305709}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -4802,6 +5346,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2034472298}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -4904,6 +5453,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   doggySFX: {fileID: 1674580666}
+--- !u!95 &598394576
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598394571}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &600939218
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4994,6 +5562,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 588642194}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &608002543 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1521411514196821013}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &608002547
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 608002543}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &613452798
 GameObject:
   m_ObjectHideFlags: 0
@@ -5278,6 +5871,56 @@ Transform:
   m_Father: {fileID: 1181843165}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &644429797 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1119220657}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &644429801
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 644429797}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &646919364 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1565219815}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &646919368
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 646919364}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &652219094
 GameObject:
   m_ObjectHideFlags: 0
@@ -5342,6 +5985,12 @@ Transform:
   m_Father: {fileID: 1181843165}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &654186995 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 984653775}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &654581915
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5551,6 +6200,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
     type: 3}
   m_PrefabInstance: {fileID: 1730555388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &689471978 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1151398416}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &695154766
 PrefabInstance:
@@ -5765,6 +6420,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 301995355}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -5898,6 +6558,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1412543735}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -5908,6 +6573,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 47298038}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 273138307}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -6091,6 +6761,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1312565595}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -6101,6 +6776,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 446271014}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -6254,6 +6934,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1596611194}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -22934,6 +23619,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1586150642}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -23011,6 +23701,18 @@ PrefabInstance:
       objectReference: {fileID: 715557645}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &782170807 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1890397007}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &791234531 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1481819496}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &795556888
 GameObject:
   m_ObjectHideFlags: 0
@@ -26549,6 +27251,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2117316099}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -26567,7 +27274,7 @@ PrefabInstance:
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -26638,6 +27345,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 976013526}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -26727,6 +27439,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 528207357}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -26737,6 +27454,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1563639834}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -26804,6 +27526,31 @@ PrefabInstance:
       objectReference: {fileID: 1874344869}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!1 &806983344 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 344522272}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &806983348
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 806983344}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &819288590 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -26950,6 +27697,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2101410554}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -27034,6 +27786,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 655381647}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -27223,6 +27980,31 @@ PrefabInstance:
       objectReference: {fileID: 1674580666}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afad9792297249d418bef58f7bbb3a09, type: 3}
+--- !u!1 &858220892 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 174157292}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &858220896
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 858220892}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &858420843 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -27235,6 +28017,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 475138206}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &894411486 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+    type: 3}
+  m_PrefabInstance: {fileID: 447305618}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &894411490
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 894411486}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &921949915
 GameObject:
   m_ObjectHideFlags: 0
@@ -27494,6 +28301,56 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1990029161}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &943515192 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1431426181}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &943515196
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 943515192}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &957152878 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1042756693}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &957152882
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 957152878}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &958155322
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27580,6 +28437,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 755648540}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -27590,6 +28452,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1135016745}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1008164263}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -27708,6 +28575,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1312565595}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -27792,6 +28664,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1506998012}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -27802,6 +28679,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 654186995}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -27876,6 +28758,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1596611194}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -27972,6 +28859,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 528207357}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -28073,6 +28965,43 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1151398416}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1008164263 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 959738021}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1020342783 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1990029161}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1020342787
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1020342783}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!95 &1026297588 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1510112353}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1027497482
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28080,6 +29009,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 655381647}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -28090,6 +29024,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1556838886}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -28157,6 +29096,12 @@ PrefabInstance:
       objectReference: {fileID: 715557645}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &1030872774 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1379900495}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1037273142
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28321,6 +29266,31 @@ PrefabInstance:
       objectReference: {fileID: 1674580666}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afad9792297249d418bef58f7bbb3a09, type: 3}
+--- !u!1 &1061941917 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 958155322}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1061941921
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1061941917}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1067716303
 GameObject:
   m_ObjectHideFlags: 0
@@ -28394,6 +29364,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 652219095}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -28404,6 +29379,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1458357108}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -28568,6 +29548,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 755648540}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -28657,6 +29642,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1596611194}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -28741,6 +29731,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2117316099}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -29047,6 +30042,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2034472298}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -29216,6 +30216,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1240962131}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -29300,6 +30305,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 643855053}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -29511,6 +30521,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 653770963}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -29521,6 +30536,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 47298038}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 689471978}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -29708,6 +30728,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1544148957}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -29785,6 +30810,12 @@ PrefabInstance:
       objectReference: {fileID: 1874344869}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &1166799422 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 295307734}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1170907606 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -29908,6 +30939,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 528207357}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -29997,6 +31033,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 763275668}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1235427312 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1442894862}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1240962130
 GameObject:
   m_ObjectHideFlags: 0
@@ -30032,6 +31074,18 @@ Transform:
   m_Father: {fileID: 1181843165}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1241892717 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 162063155}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1241968792 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 565768080}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1257888017 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -30124,6 +31178,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1596611194}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -30134,6 +31193,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1426886185}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1874081232}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -30255,6 +31319,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1240962131}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -30466,6 +31535,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2034472298}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -30595,6 +31669,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 754305709}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -30757,6 +31836,31 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 295307734}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1371001039 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 857419015}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1371001043
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1371001039}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1371015000
 GameObject:
   m_ObjectHideFlags: 0
@@ -30897,6 +32001,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 10936439}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -30907,6 +32016,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1030872774}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -31240,6 +32354,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 10936439}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -31250,6 +32369,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1235427312}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -31329,6 +32453,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1264553366}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1458357108 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1071753606}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1466680051 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 4063359}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1472533274
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31336,6 +32472,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 174243261}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -31547,6 +32688,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2068352250}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -31557,6 +32703,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 47298038}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 791234531}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -33135,6 +34286,31 @@ Transform:
   m_Father: {fileID: 1181843165}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1509305773 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1730555388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1509305777
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1509305773}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1510112353
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33142,6 +34318,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 976013526}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -33152,6 +34333,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 1026297588}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -33236,12 +34422,56 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1073028447}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1512141737
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1512141732}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1520518150 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
     type: 3}
   m_PrefabInstance: {fileID: 1442894862}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1529305958 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+    type: 3}
+  m_PrefabInstance: {fileID: 600939218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1529305962
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1529305958}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1534023104 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -33353,6 +34583,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1240962131}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -33363,10 +34598,20 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 26869863}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
       value: Hazard
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -33470,6 +34715,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1586150642}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -33480,6 +34730,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 516304412}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -33560,6 +34815,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 655381647}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -33637,6 +34897,12 @@ PrefabInstance:
       objectReference: {fileID: 579389212}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!95 &1556838886 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1027497482}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1561183660
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33644,6 +34910,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 755648540}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -33853,6 +35124,12 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &1563639834 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 804628049}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1565219815
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33939,6 +35216,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2101410554}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -34023,6 +35305,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1506998012}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -34209,6 +35496,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1498394983}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -34219,6 +35511,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 116826479}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -34371,6 +35668,37 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1565219815}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1644506505 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 219186228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1648628577 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1037273142}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1648628581
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1648628577}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1653279227 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -34504,6 +35832,62 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1 &1675421986 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 475800490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1675421990
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675421986}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!95 &1692718780 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 63418551}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1693641485 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 2125109799}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1693641489
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1693641485}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1001 &1698907227
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34511,6 +35895,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2101410554}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -34685,6 +36074,62 @@ PrefabInstance:
       objectReference: {fileID: 1674580666}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: afad9792297249d418bef58f7bbb3a09, type: 3}
+--- !u!95 &1731937881 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 553615910}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1739694338 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1362113845}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1739694342
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1739694338}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &1759773078 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 1152625878}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1759773082
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759773078}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1768595745 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6963856972800419640, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
@@ -34704,6 +36149,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 738077477}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -34714,6 +36164,11 @@ PrefabInstance:
       propertyPath: damagedSFX
       value: 
       objectReference: {fileID: 1301096355}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 129642897}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -34958,6 +36413,37 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 212753752}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1871059930 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 762703680}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1871059934
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871059930}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!95 &1874081232 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 1264553366}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1874344867
 GameObject:
   m_ObjectHideFlags: 0
@@ -35098,6 +36584,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 754305709}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -35108,6 +36599,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 162108525}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -35182,6 +36678,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2034472298}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -35192,6 +36693,11 @@ PrefabInstance:
       propertyPath: myCamera
       value: 
       objectReference: {fileID: 519420028}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: dogANIM
+      value: 
+      objectReference: {fileID: 782170807}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -35271,11 +36777,61 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 668309390}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1895089581
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895089576}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &1898581468 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
     type: 3}
   m_PrefabInstance: {fileID: 993595344}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1909460377 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 923779458}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1909460381
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1909460377}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!95 &1910910936 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 389610671}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1913054957 stripped
 Transform:
@@ -35837,6 +37393,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 301995355}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -35919,6 +37480,31 @@ PrefabInstance:
       objectReference: {fileID: 579389212}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 011ab892dc32e6948bbb59be318222af, type: 3}
+--- !u!1 &1994889299 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 951691197788884438, guid: afad9792297249d418bef58f7bbb3a09,
+    type: 3}
+  m_PrefabInstance: {fileID: 94853031}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1994889303
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994889299}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &2000159710 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
@@ -36010,6 +37596,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 219186228}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &2015062895 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+    type: 3}
+  m_PrefabInstance: {fileID: 251010741}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2023358406 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -36070,6 +37662,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1412543735}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -36175,6 +37772,25 @@ MonoBehaviour:
   isFirst: 1
   speed: 5
   player: {fileID: 1984353386}
+--- !u!95 &2040477160
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2040477155}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!4 &2049904460 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 951691197788884437, guid: afad9792297249d418bef58f7bbb3a09,
@@ -36188,6 +37804,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 10936439}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: damagedSFX
@@ -36272,6 +37893,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 857417307}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -38201,6 +39827,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 643855053}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -38324,6 +39955,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 655381647}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
@@ -38408,6 +40044,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1275011107}
     m_Modifications:
+    - target: {fileID: 1391333632233646449, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c7289396fe9c55f4993fce4ed45923c7, type: 2}
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: myCamera
