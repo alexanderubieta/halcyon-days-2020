@@ -24,6 +24,7 @@
           <e p="Wall.cs" t="Include" />
           <e p="Win.cs" t="Include" />
         </e>
+        <e p="TrueForm.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
