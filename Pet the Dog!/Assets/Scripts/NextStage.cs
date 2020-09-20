@@ -47,7 +47,7 @@ public class NextStage : MonoBehaviour
         if (other.tag == "Player")
         {
             doggySFX.Play();
-            player.GetComponent<DUMMYmovement>().movementSpeed += 1;
+            player.GetComponent<DUMMYmovement>().movementSpeed += 0.5f;
             movingToBlock = true;
         }
     }

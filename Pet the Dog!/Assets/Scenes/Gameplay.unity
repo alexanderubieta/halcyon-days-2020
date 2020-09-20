@@ -151,8 +151,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: where could my dog be?
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -162,6 +174,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -326,8 +343,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: excuse me
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -337,6 +366,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -813,8 +847,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that's a tv, not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -824,6 +870,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -958,8 +1009,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: I MISS YOU
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -974,6 +1037,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -1394,8 +1462,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: i don't think a table is my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 1640829307635604494, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -1410,6 +1490,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -1683,8 +1768,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is not a dog, but a tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -1699,6 +1796,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -2054,8 +2156,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a sofa
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -6408618887401157511, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2065,6 +2179,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -2327,8 +2446,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not this table
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 1640829307635604494, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2338,6 +2469,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -2462,8 +2598,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2473,6 +2621,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -2608,8 +2761,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that wasn't my dog either
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2619,6 +2784,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -2961,8 +3131,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: where is my doggy?
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -2977,6 +3159,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -3093,6 +3280,23 @@ PrefabInstance:
       propertyPath: healSFX
       value: 
       objectReference: {fileID: 773115183}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: truth
+      value: plant will nourish me
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 79997175000919222, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 2253387946175553140, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Layer
@@ -3167,6 +3371,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6963856972800419641, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
@@ -3460,8 +3669,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -3476,6 +3697,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -3849,8 +4075,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my other tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -3860,6 +4098,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -4409,6 +4652,23 @@ PrefabInstance:
       propertyPath: healSFX
       value: 
       objectReference: {fileID: 773115183}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: truth
+      value: plant will nourish me
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -5792775812220702041, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 2253387946175553140, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Layer
@@ -4484,6 +4744,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6963856972800419641, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Name
@@ -4557,8 +4822,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: hello?
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -4568,6 +4845,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -4786,8 +5068,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog would never be a knife
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6856419046981102816, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -4797,6 +5091,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -4921,8 +5220,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: too hot for dogs here
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -4937,6 +5248,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -5585,8 +5901,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: HOT HOT HOT HOT
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -5596,6 +5924,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -5725,8 +6058,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is my other oven
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -5736,6 +6081,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -5905,8 +6255,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: excuse me
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -5921,6 +6283,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -6056,8 +6423,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: it seems that is a knife
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6856419046981102816, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -6067,6 +6446,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -6377,8 +6761,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: excuse me, lamp
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2695713032993553659, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -6388,6 +6784,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -6512,8 +6913,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog isn't quite a blender
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -6523,6 +6936,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -6810,6 +7228,23 @@ PrefabInstance:
       propertyPath: healSFX
       value: 
       objectReference: {fileID: 773115183}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: truth
+      value: plant will nourish me
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -5792775812220702041, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 2253387946175553140, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Layer
@@ -6884,6 +7319,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6963856972800419641, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
@@ -7819,8 +8259,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: too hot
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -7835,6 +8287,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -8010,6 +8467,12 @@ PrefabInstance:
       propertyPath: truth
       value: that was a blender, not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -8019,6 +8482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -8257,8 +8725,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: ow
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -8268,6 +8748,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -8481,8 +8966,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a blender
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -8492,6 +8989,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -50853,8 +51355,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: not a dog. it is a tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -50864,6 +51378,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -51327,8 +51846,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: i have too many ovens
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -51343,6 +51874,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -51467,8 +52003,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is not a dog, it is an oven
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -51483,6 +52031,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -51612,8 +52165,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: OW
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -51623,6 +52188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -51911,8 +52481,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a sofa
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -7869055728433811331, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -51922,6 +52504,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -52046,8 +52633,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: ouch
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -52057,6 +52656,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -52780,8 +53384,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my least favorite knife
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6856419046981102816, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -52796,6 +53412,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -52959,8 +53580,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that was a chair. excuse me
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6160730348686262699, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -52970,6 +53603,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -53099,8 +53737,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not on tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -53110,6 +53760,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -53234,8 +53889,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: a lamp is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2695713032993553659, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -53245,6 +53912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -53381,8 +54053,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is not my dog, it is a chair
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6160730348686262699, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -53392,6 +54076,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -53582,8 +54271,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -53593,6 +54294,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -54003,8 +54709,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is an oven
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -54014,6 +54732,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -54295,8 +55018,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: WHERE ARE YOU?
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -6408618887401157511, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -54311,6 +55046,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -54435,8 +55175,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: how did a sofa hurt me?
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -6408618887401157511, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -54446,6 +55198,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -54570,8 +55327,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my oven is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -54586,6 +55355,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -54937,8 +55711,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -54948,6 +55734,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -55167,8 +55958,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my other favorite oven
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -55178,6 +55981,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -55302,8 +56110,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a chair
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -786427203703995601, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -55313,6 +56133,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -55569,8 +56394,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is not a dog, but a blender
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -55580,6 +56417,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -55828,8 +56670,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is a blender, not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -55839,6 +56693,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -56085,8 +56944,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is an oven
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -56096,6 +56967,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -56385,8 +57261,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: 
+      value: they both have four legs?
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6160730348686262699, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -56396,6 +57284,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -56567,8 +57460,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: OW OW OW OW
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -56578,6 +57483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -56829,8 +57739,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: i wish i could see
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -56840,6 +57762,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -57009,8 +57936,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that is knife, not puppy
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6856419046981102816, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -57020,6 +57959,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -57402,8 +58346,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a chair
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6160730348686262699, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -57413,6 +58369,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -57811,8 +58772,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: an oven is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -57822,6 +58795,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -57970,8 +58948,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: too hot to be a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -57981,6 +58971,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -58239,6 +59234,18 @@ PrefabInstance:
       propertyPath: truth
       value: that was a blender, not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -58248,6 +59255,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -60298,8 +61310,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: that's a tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -60314,6 +61338,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -61266,6 +62295,18 @@ PrefabInstance:
       propertyPath: truth
       value: that was an oven, not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -61280,6 +62321,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -61442,8 +62488,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -61453,6 +62511,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -61583,8 +62646,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: dogs aren't knives
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6856419046981102816, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -61594,6 +62669,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -61724,8 +62804,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: COME BACK TO ME
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7621370840818078493, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -61740,6 +62832,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -62086,8 +63183,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: an oven is not my dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -62097,6 +63206,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -62221,8 +63335,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: no dog. just tv.
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -62232,6 +63358,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -62360,6 +63491,23 @@ PrefabInstance:
       propertyPath: healSFX
       value: 
       objectReference: {fileID: 773115183}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: truth
+      value: plant will nourish me
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2656378385106261980, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 2253387946175553140, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Layer
@@ -62435,6 +63583,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6963856972800419641, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Name
@@ -62483,8 +63636,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: OW
+      value: my favorite tv
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -62499,6 +63664,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -63037,8 +64207,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: no tv dogs here
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -63048,6 +64230,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -63409,8 +64596,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: wait that's not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -63420,6 +64619,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -80361,8 +81565,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: dog should not be hot
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -80372,6 +81588,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -80501,8 +81722,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: wrong again..
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -80512,6 +81745,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -80720,6 +81958,23 @@ PrefabInstance:
       propertyPath: healSFX
       value: 
       objectReference: {fileID: 773115183}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: truth
+      value: plant will nourish me
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2656378385106261980, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 2253387946175553140, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Layer
@@ -80794,6 +82049,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6963856972800419641, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
@@ -81287,8 +82547,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not sharp
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6856419046981102816, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -81303,6 +82575,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -81612,8 +82889,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: my dog is not a blender
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -81623,6 +82912,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -81800,8 +83094,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: c'mere doggy!
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 7463006235153828574, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -81811,6 +83117,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -81935,8 +83246,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: the oven is not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 3991623095299117748, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -81951,6 +83274,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -82485,8 +83813,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is not my dog, it is a blender
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 2989838664054303983, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -82496,6 +83836,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -82659,8 +84004,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: no dog, just chair
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 6160730348686262699, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -82670,6 +84027,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -82794,8 +84156,20 @@ PrefabInstance:
     - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: truth
-      value: piss
+      value: this is a sofa, not a dog
       objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1740700269718801096, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: -7869055728433811331, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 1740700269718801140, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
       propertyPath: m_Name
@@ -82805,6 +84179,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1740700269718801142, guid: 011ab892dc32e6948bbb59be318222af,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1740700269718801143, guid: 011ab892dc32e6948bbb59be318222af,
         type: 3}
@@ -83257,6 +84636,23 @@ PrefabInstance:
       propertyPath: healSFX
       value: 
       objectReference: {fileID: 773115183}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueFormObject
+      value: 
+      objectReference: {fileID: 4915008544662363650, guid: 8aa1016565f349348948f6da9891a62d,
+        type: 3}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: truth
+      value: plant will nourish me
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388160497231900029, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: trueForm
+      value: 
+      objectReference: {fileID: 79997175000919222, guid: cfd699255e997cf4c9e3b2d604b0c159,
+        type: 3}
     - target: {fileID: 2253387946175553140, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}
       propertyPath: m_Layer
@@ -83331,6 +84727,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6963856972800419641, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6963856972800419643, guid: 5e8994ad191ea5a4c96b347f6aab5e77,
         type: 3}

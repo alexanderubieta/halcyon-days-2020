@@ -56,9 +56,9 @@ public class TextMaker : MonoBehaviour
 
         if (rightOrLeft == true) // Instantiate the object on the right
         {
-            Text tempTextBox = Instantiate(textObject, new Vector3(Random.Range(-350, -275), Random.Range(-190, 150), 0), Quaternion.identity);
+            Text tempTextBox = Instantiate(textObject, new Vector3(Random.Range(0, 1920), Random.Range(0, 1080), 0), Quaternion.identity);
             tempTextBox.transform.SetParent(renderCanvas.transform, false);
-            tempTextBox.fontSize = 10;
+            tempTextBox.fontSize = 20;
             tempTextBox.GetComponent<Text>().font = myFont;
             tempTextBox.text = phrase;
         }
@@ -67,7 +67,7 @@ public class TextMaker : MonoBehaviour
         {
             Text tempTextBox = Instantiate(textObject, new Vector3(Random.Range(350, 450), Random.Range(-190, 150), 0), Quaternion.identity);
             tempTextBox.transform.SetParent(renderCanvas.transform, false);
-            tempTextBox.fontSize = 10;
+            tempTextBox.fontSize = 20;
             tempTextBox.GetComponent<Text>().font = myFont;
             tempTextBox.text = phrase;
         }
